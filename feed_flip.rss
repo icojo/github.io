@@ -1,27 +1,17 @@
-<rss version="2.0"
- xmlns:content="http://purl.org/rss/1.0/modules/content/"
- xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:media="http://search.yahoo.com/mrss/"
- xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:georss="http://www.georss.org/georss"> 
-<channel> 
-<title>The Springfield Shopper</title>
- <link>http://example.com/</link>
- <description>
- Your daily source for local Springfield news, sports, and weather
- </description>
- <language>en-us</language>
- <atom:link rel="hub" href="http://pubsubhubbub.appspot.com"/>
- <item>
-  <title>Squirrel Resembling Abraham Lincoln Found</title>
-  <link>http://example.com/1992/01/09/squirrel-resembling-abraham-lincoln-found</link>
-  <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb12</guid>
-  <pubDate>Tue, 10 Jun 2003 04:00:00 GMT</pubDate>
-  <dc:creator>Ralph Wiggum</dc:creator>
-  <georss:point>45.256 -71.92</georss:point>
-  <description><![CDATA[ 
-    A local Springfield man has restored pride to Springfield by finding a squirrel
-    that resembles Abraham Lincoln. Authorities are on the lookout for any rodents 
-    bearing resemblance to John Wilkes Booth. 
-   ]]></description> 
-<content:encoded><![CDATA[ <p>Full content of the article <em>goes here</em>.</p> <figure> <img src="http://media.example.com/1992/01/09/squirrel.jpg" width="1200" height="900"> <figcaption> This squirrel bares a strong resemblance to <strong>Abraham Lincoln</strong> <span class="copyright">Carl Carlson</span> </figcaption> </figure> <p>Images and videos should be placed within the article copy.</p> <figure> <video width="1200" height="900"> <source src="http://media.example.com/1992/01/09/squirrel-lincoln.mp4.jpg" type="video/mp4"> </video> <figcaption> Kent Brockman interviews the squirrel on location <span class="copyright">Carl Carlson</span> </figcaption> </figure> <p>More content goes here ...</p> ]]></content:encoded> </item> <item> <title>Burns Pays City 3 Mil!</title> <link>http://example.com/1993/01/14/burns-pays-city-3-mil</link> <guid>de9f2c7fd25e1b3afad3e85a0bd17d9b100db4b3</guid> <pubDate>Tue, 10 Jun 2003 04:00:00 GMT</pubDate> <dc:creator>Todd Flanders</dc:creator> <georss:point>45.256 -71.92</georss:point> <description><![CDATA[ Wealthy resident Montgomery Burns was fined three million dollars after being caught dumping nuclear waste in the Springfield city park. ]]></description> <content:encoded><![CDATA[ <p>Full content of the article <em>goes here</em>.</p> ]]></content:encoded> </item> </channel> </rss>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Article does not meet minimum recommendation for word and/or character count. </title>
+    <link>http://localhost:2089/rss</link>
+    <description>sample description</description>
+    <language>en-US</language>
+    <copyright>(C) 2012</copyright>
+    <item>
+      <link>http://localhost:2089/rss?id=1</link>
+      <title>title 1</title>
+      <description><![CDATA[
+        <html><body>helo worldTyrone Garland (born 1992) is an American professional basketball player who last played with the National Basketball League of Canada's Mississauga Power, before the team folded in 2015. Garland initially competed at the collegiate level with the Virginia Tech Hokies, but transferred out during his sophomore season after limited playing time. Before his 2012–13 junior season, he joined the La Salle Explorers and instantly assumed a leading role. He lifted them to a second-round win at the 2013 NCAA Men's Division I Basketball Tournament with a game-winning shot known as the "Southwest Philly Floater". By the end of his college career, his senior basketball class at La Salle had become the most successful in 22 years. Prior to that, Garland starred for John Bartram High School in Philadelphia, Pennsylvania, where he finished third on the all-time Philadelphia Public League scoring list in 2010, behind only Maureece Rice and Wilt Chamberlain.</body></html>
+      ]]></description>
+	  <pubDate>Tue, 10 Nov 2015 10:54:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
